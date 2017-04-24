@@ -1,5 +1,5 @@
 #!/bin/sh
 cd www
-echo $dev
+echo $env
 echo $branch
 echo $server
